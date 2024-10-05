@@ -29,12 +29,12 @@ export default function About(){
 <div className="about">
         <h1>About Us</h1>
         <p>
-          Hi, I'm Muhammad Zahid, a BSCS student at PAF-KIET, specializing in 
+          Hi, I am Muhammad Zahid, a BSCS student at PAF-KIET, specializing in 
           emerging fields like Web3.0, Metaverse, and AI. My focus is on pushing 
           boundaries and developing practical solutions with future-oriented technologies. 
           Currently enrolled in a certification from the Governor Sindh Initiative, I am 
           excited to explore innovative solutions that can reshape industries and improve 
-          people's lives.
+          peoples lives.
         </p>
       </div>
       </div>
